@@ -1,9 +1,11 @@
 
 Olá, eu sou o Edinei 👋
+
 Software Engineer · .NET Backend
 Resolvendo problemas de negócio com sistemas confiáveis e fáceis de manter. 
 
 🧑‍💻 Sobre mim
+
 💼 Desenvolvedor backend .NET na Breda's Sistemas
 🧱 Foco em APIs, modelagem de domínio (DDD), SQL e testes automatizados
 🛠️ Stack 
