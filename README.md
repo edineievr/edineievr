@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**edineievr/edineievr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou o Edinei 👋
+Software Engineer · .NET Backend
+Resolvendo problemas de negócio com sistemas confiáveis e fáceis de manter. 
 
-Here are some ideas to get you started:
+🧑‍💻 Sobre mim
+💼 Desenvolvedor backend .NET na Breda's Sistemas
+🧱 Foco em APIs, modelagem de domínio (DDD), SQL e testes automatizados
+🛠️ Stack 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Práticas: DDD · Strategy & Factory · Testes unitários e de integração · Logs estruturados (Serilog)
+
+🚀 Projeto em destaque
+🛒 PriceTracker
+Worker em .NET 10 que monitora preços de peças de PC na Kabum, Pichau e Terabyte e avisa no Telegram quando o preço à vista cai.
+
+Strategy + Factory: cada plataforma tem sua estratégia de scraping, escolhida em tempo de execução. Adicionar uma loja nova não mexe no orquestrador
+AngleSharp para HTML estático e Playwright para páginas renderizadas via JavaScript
+Histórico de preços em SQLite, com cada consulta registrada
+Notificação desacoplada: dá para trocar o canal sem impacto no fluxo principal
+Testes com NUnit, incluindo integração contra as plataformas reais
+
+📫 Contato
+Bora trocar ideia sobre .NET, arquitetura ou backend? Me chama no LinkedIn.
+
